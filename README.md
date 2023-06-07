@@ -9,9 +9,15 @@ Dependencies
 This script depends on the following Python packages:
 
 requests
-BeautifulSoup from bs4
+
+BeautifulSoup 
+
 pandas
+
 random
+
 time
+
 urllib.parse
+
 sys
